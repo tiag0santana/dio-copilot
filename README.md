@@ -8,11 +8,21 @@ O objetivo deste desafio é criar seu primeiro Copiloto no Microsoft Copilot Stu
 
 Explore a demonstração apresentada no conteúdo prático e faça um resumo do que aprendeu neste conteúdo. Em seguida armazene em um repositório no GitHub e compartilhe o link na entrega do desafio.
 
-# O Agente DIO
+# O Agente DIO v1
 
 ![Copilot Agents](https://i.imgur.com/mD0NAcd.png)
 
 ![Agent Details](https://i.imgur.com/mNCwIzu.png)
+
+# O Agente DIO v2
+
+![Copilot Agent](https://i.imgur.com/i9jyyll.png)
+
+![AI Topics](https://i.imgur.com/j34vnuj.png)
+
+![Agent Test](https://i.imgur.com/JyMt2b5.png)
+
+![Agent Test](https://i.imgur.com/JyMt2b5.png)
 
 # A Plataforma
 
